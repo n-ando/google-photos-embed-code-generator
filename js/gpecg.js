@@ -1,11 +1,12 @@
 // ref: https://github.com/howdy39/google-picker-api-demo/blob/master/docs/index.html
 
 // The Browser API key obtained from the Google Developers Console.
-var developerKey = 'AIzaSyCrQKCG_Ly61zaO6-ba93BjTTb_W6v_r4Y';
+//var developerKey = 'AIzaSyCrQKCG_Ly61zaO6-ba93BjTTb_W6v_r4Y';
+var developerKey = 'AIzaSyDwMXESfRIjG-S2MjHEIHaSbfSdGnn6gjg';
 
 // The Client ID obtained from the Google Developers Console. Replace with your own Client ID.
-var clientId = "836573439566-pannen061gqgreoo4qv1na39on7smtpd.apps.googleusercontent.com";
-
+//var clientId = "836573439566-pannen061gqgreoo4qv1na39on7smtpd.apps.googleusercontent.com";
+var clientId = "845486978639-4nh47kfpceohcbqij7il7g1qdiigbddb.apps.googleusercontent.com";
 // Scope to use to access user's photos.
 var scope = ['https://www.googleapis.com/auth/photos'];
 
